@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.fresco:animated-drawable:1.9.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5c59ced369db14662b78240f96b7d839/transformed/jetified-animated-drawable-1.9.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5c59ced369db14662b78240f96b7d839/transformed/jetified-animated-drawable-1.9.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5c59ced369db14662b78240f96b7d839/transformed/jetified-animated-drawable-1.9.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5c59ced369db14662b78240f96b7d839/transformed/jetified-animated-drawable-1.9.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/animated-drawable/1.9.0/f56052e9e827f959fae972deb057bd1ffe2977e6/animated-drawable-1.9.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/animated-drawable/1.9.0/f0372b2667a6a1fdabcd324141315aa314776ab5/animated-drawable-1.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

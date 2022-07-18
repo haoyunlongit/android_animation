@@ -1,0 +1,43 @@
+pluginManagement {
+    def urls = [
+            "https://mirrors.tencent.com/nexus/repository/maven-public/",
+            "https://mirrors.tencent.com/repository/maven/thirdparty/",
+            "https://mirrors.tencent.com/repository/maven/tencentvideo",
+            "https://mirrors.tencent.com/repository/maven/tencentvideo-snapshot",
+    ]
+    repositories {
+        urls.each {
+            mavenUrl ->
+                maven {
+                    url mavenUrl
+                }
+        }
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+        maven { url "https://jitpack.io" }
+    }
+}
+dependencyResolutionManagement {
+    def urls = [
+            "https://mirrors.tencent.com/nexus/repository/maven-public/",
+            "https://mirrors.tencent.com/repository/maven/thirdparty/",
+            "https://mirrors.tencent.com/repository/maven/tencentvideo",
+            "https://mirrors.tencent.com/repository/maven/tencentvideo-snapshot",
+    ]
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        urls.each {
+            mavenUrl ->
+                maven {
+                    url mavenUrl
+                }
+        }
+        google()
+        mavenCentral()
+        maven { url "https://jitpack.io" }
+    }
+}
+
+rootProject.name = "PageTest"
+include ':app'

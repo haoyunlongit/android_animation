@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tencent.qqlive.modules:vblottie:1.0.9@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3e433a15b9abe3350e7768715088bf0f/transformed/jetified-vblottie-1.0.9/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3e433a15b9abe3350e7768715088bf0f/transformed/jetified-vblottie-1.0.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3e433a15b9abe3350e7768715088bf0f/transformed/jetified-vblottie-1.0.9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3e433a15b9abe3350e7768715088bf0f/transformed/jetified-vblottie-1.0.9/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.qqlive.modules/vblottie/1.0.9/388c647795a88b90dd771025e9359d35ca640ed7/vblottie-1.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

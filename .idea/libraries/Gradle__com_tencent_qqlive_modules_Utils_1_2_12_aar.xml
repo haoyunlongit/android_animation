@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tencent.qqlive.modules:Utils:1.2.12@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0c87a261ab628629bf571d03ca2987cf/transformed/jetified-Utils-1.2.12/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0c87a261ab628629bf571d03ca2987cf/transformed/jetified-Utils-1.2.12/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0c87a261ab628629bf571d03ca2987cf/transformed/jetified-Utils-1.2.12/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

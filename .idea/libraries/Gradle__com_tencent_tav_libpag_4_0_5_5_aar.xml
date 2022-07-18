@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tencent.tav:libpag:4.0.5.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/610b9646ef37bdd50003267539e23348/transformed/jetified-libpag-4.0.5.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/610b9646ef37bdd50003267539e23348/transformed/jetified-libpag-4.0.5.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/610b9646ef37bdd50003267539e23348/transformed/jetified-libpag-4.0.5.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.tav/libpag/4.0.5.5/ce3198960a8279bd420521ea539de0514e4997cd/libpag-4.0.5.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
